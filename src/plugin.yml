@@ -1,0 +1,17 @@
+main: dev.matievisthekat.SpigotPlugin.Main
+name: SpigotPlugin
+version: 1.0
+author: MatievisTheKat
+api-version: 1.13
+
+commands:
+  Launch:
+    aliases: lch
+  Doctor:
+    aliases: doc
+  Test:
+    aliases: t
+  GodBoots:
+    aliases: gb
+  StarTool:
+    aliases: st
